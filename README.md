@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yukatiii
-- 👀 I’m interested in c#
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on c#
+- 👀 I’m interested in C# and Python
+- 🌱 I’m currently learning C# and Python
+- 💞️ I’m looking to collaborate on C# and Python
 - 📫 How to reach me - Yukati#8089 on Discord
 
 <!---
